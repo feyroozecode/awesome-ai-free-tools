@@ -6,3 +6,7 @@ Awesome Free Ai Tools
 2. Graph Token Savers
 - (graphify)[https://github.com/safishamsi/graphify.git]
 - (cavmen)[https://github.com/JuliusBrussee/caveman.git]
+
+## Image generation
+
+- [Raphael](https://raphael.app) — Free unlimited AI image generator with intelligent multi-model routing.
